@@ -1,2 +1,5 @@
 # OverscansLibraryManagementToolPublicScripts
 This is a subset of helper scripts that are included in the Overscans Library Management Tool that are public and free to use.
+
+
+The Overscans Library Management Tool is a paid tool by Overscans LLC that aims to simplify the organization, access, and usability of 3D asset libraries for solo artists, small companies, and even large companies by providing a toolset that is affordable, and as flexible to your workflows as we can make it.  Some scripts can't be included directly in the software itself because it interacts with other tools that are GPL licensed, like blender, so we make sure to publish those here to abide by the license terms of those software packages.  We may also post other helpful scripts here as well, but the source code of the Overscans Library Management Tool itself will only be available for those willing to pay for a source access license, which is much higher than the base access fee to use the program, for those who need to customize the tool further to fit their pipelines.
